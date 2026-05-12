@@ -41,10 +41,24 @@ Speech Synthesis + UI Animation
 
 # Screenshots
 
-![Wake Mode](screenshots/wake-mode.png)
+## Wake Mode
 
-![Speaking State](screenshots/speaking-state.png)
+![Wake-Mode](./screenshots/wake-mode.png)
 
-![Thinking State](screenshots/thinking-state.png)
+---
 
-![Desktop Actions](screenshots/desktop-actions.jpeg)
+## Speaking State
+
+![Speaking State](/screenshots/speaking-state.png)
+
+---
+
+## Thinking State
+
+![Thinking State](/screenshots/thinking-state.png)
+
+---
+
+## Desktop Actions
+
+![Desktop Actions](/screenshots/desktop-actions.png)
