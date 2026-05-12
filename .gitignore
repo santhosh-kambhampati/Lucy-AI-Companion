@@ -1,0 +1,17 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Node
+node_modules/
+dist/
+
+# Environment
+.env
+
+# Memory
+memory.json
+
+# macOS
+.DS_Store
