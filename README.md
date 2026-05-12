@@ -49,16 +49,16 @@ Speech Synthesis + UI Animation
 
 ## Speaking State
 
-![Speaking State](./screenshots/speaking-state.png)
+![Speaking State](/screenshots/speaking-state.png)
 
 ---
 
 ## Thinking State
 
-![Thinking State](./screenshots/thinking-state.png)
+![Thinking State](/screenshots/thinking-state.png)
 
 ---
 
 ## Desktop Actions
 
-![Desktop Actions](./screenshots/desktop-actions.jpeg)
+![Desktop Actions](/screenshots/desktop-actions.png)
