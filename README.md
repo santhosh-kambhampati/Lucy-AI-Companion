@@ -8,6 +8,8 @@ Lucy is a realtime AI desktop companion with voice interaction, wake-word activa
 
 [Watch Lucy Demo](https://youtu.be/u6-FjLHhrqo)
 
+---
+
 # Features
 
 - Realtime voice conversations
